@@ -8,7 +8,7 @@
 
 **REG. ID: GO_STP_7724**
 
-#1. Is a list mutable?
+<b>1. Is a list mutable?</b>
 
 Yes, lists are mutable.
 
