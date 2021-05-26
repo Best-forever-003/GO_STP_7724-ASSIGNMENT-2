@@ -9,5 +9,6 @@
 **REG. ID: GO_STP_7724**
 
 #1. Is a list mutable?
+
 Yes, lists are mutable.
 
